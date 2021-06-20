@@ -1,0 +1,8 @@
+H:\CSharp\CreateRow\CreateRow\bin\Debug\CreateRow.dll
+H:\CSharp\CreateRow\CreateRow\bin\Debug\CreateRow.pdb
+H:\CSharp\CreateRow\CreateRow\bin\Debug\ESRI.ArcGIS.Editor.dll
+H:\CSharp\CreateRow\CreateRow\bin\Debug\ESRI.ArcGIS.Editor.xml
+H:\CSharp\CreateRow\CreateRow\obj\Debug\CreateRow.csprojResolveAssemblyReference.cache
+H:\CSharp\CreateRow\CreateRow\obj\Debug\CreateRow.dll
+H:\CSharp\CreateRow\CreateRow\obj\Debug\CreateRow.pdb
+H:\CSharp\CreateRow\CreateRow\bin\Debug\CreateRow.esriAddIn
